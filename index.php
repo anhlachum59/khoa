@@ -9,6 +9,7 @@
 <body>
     <?php
         echo 'mamamia';
+        echo 'mamamia';
     ?>
 </body>
 </html>
